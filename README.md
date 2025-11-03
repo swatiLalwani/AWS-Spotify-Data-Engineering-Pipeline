@@ -40,3 +40,4 @@ Advised on retention strategies, including personalized recommendations and excl
 Conclusion:
 The project demonstrated the power of combining cloud computing with data analysis to derive insights from large-scale music streaming data. It provided valuable business intelligence to optimize Spotify’s offerings, improve user satisfaction, and enhance decision-making. Future iterations could expand the analysis by integrating data from social media or competitor platforms for a holistic industry overview.
 
+data-engineering, AWS, ETL, SQL, Python, data-analytics, BI, QuickSight, Tableau, Spotify-API, pipeline.
