@@ -27,3 +27,13 @@
       │   AWS QuickSight Dashboard   │     │     Tableau Dashboard        │
       │ KPIs: Streams, MAU, Churn    │     │ Regional Trends, Engagement │
       └──────────────────────────────┘     └─────────────────────────────┘
+
+
+- **Spotify API** pulls real-time music streaming metadata.
+- **AWS S3** acts as the raw data landing zone.
+- **Python ETL** scripts clean, normalize, and preprocess data.
+- **AWS RDS** stores structured relational tables for efficient querying.
+- **QuickSight & Tableau** use SQL queries to build dashboards for:
+  - Top artists and genres
+  - Engagement by time, region, device
+  - Churn and repeat listener metrics
